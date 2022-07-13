@@ -4,4 +4,6 @@
     <string name="Next">Next</string>
     <string name="welcome">Welcome</string>
     <string name="choose">Choose a User</string>
+    <string name="fistname_lastname">Firstname Lastname</string>
+    <string name="email">email@email.com</string>
 </resources>
