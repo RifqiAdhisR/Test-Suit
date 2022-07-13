@@ -1,7 +1,8 @@
-package com.example.testsuit
+package com.example.testsuit.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.testsuit.R
 
 class secondscreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

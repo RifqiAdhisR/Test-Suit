@@ -1,11 +1,12 @@
-package com.example.testsuit
+package com.example.testsuit.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.testsuit.R
 
-class firstscreenActivity : AppCompatActivity() {
+class thirdscreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_firstscreen)
+        setContentView(R.layout.activity_thirdscreen)
     }
 }
