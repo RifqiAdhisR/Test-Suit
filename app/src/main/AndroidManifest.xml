@@ -11,10 +11,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Testsuit">
         <activity
-            android:name=".ui.thirdscreenActivity"
+            android:name=".ui.ListUserActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.firstscreenActivity"
+            android:name=".ui.PalindromeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
